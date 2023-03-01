@@ -18,7 +18,8 @@ $ pip install bs4
 
 $ pkg install git 
 
-$ git clone https://github.com/FLAME-X-BD/Flame-X.git  
+$ git clone https://github.com/Qhingthuth/FLAME.git
+
 
 $ cd Flame-X  
 
